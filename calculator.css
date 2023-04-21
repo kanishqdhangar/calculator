@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    margin: 20px auto;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+#container{
+    border: 2px solid rgba(30, 216, 120, 0.89);
+    width: 200px; 
+    margin: 20px auto;
+    background-color: rgba(107, 106, 106, 0.815);
+    color: rgba(30, 216, 120, 0.89);
+}
+#row1{
+    margin-top: 13px;
+
+}
+#row{
+    
+    margin: 13px 13px 13px 13px;
+}
+#buttons{
+    width:36px;
+    height: 36px;
+}
+#screen{
+    height: 36px;
+}
+
